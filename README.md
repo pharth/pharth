@@ -1,7 +1,3 @@
-<div align="center">
-</div>  
-  
-
 ### <div align="center">I'm Parth Hanchate, a computer science student with a deep passion for machine learning.👨‍💻 On GitHub, I share my journey of exploration and learning in the exciting world of technology.🚀</div>  
   
 
@@ -13,8 +9,6 @@
 
 - 💡 Curious mind, always eager to dive deeper.  
   
-
-<br/>  
 
 
 ## My Skill Set  
