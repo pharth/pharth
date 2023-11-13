@@ -1,4 +1,4 @@
-### <div align="center" style="color:white;">I'm Parth Hanchate, a computer science student with a deep passion for machine learning.👨‍💻 On GitHub, I share my journey of exploration and learning in the exciting world of technology.🚀</div>  
+### <div align="center" color:"white;">I'm Parth Hanchate, a computer science student with a deep passion for machine learning.👨‍💻 On GitHub, I share my journey of exploration and learning in the exciting world of technology.🚀</div>  
   
 
 - 👨‍🎓 Computer Science Student  
