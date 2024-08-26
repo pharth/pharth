@@ -28,9 +28,9 @@
 <a href="https://pytorch.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" alt="pytorch" height="50" /></a>  
 <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://docs.langchain.com/" target="_blank"><img style="margin: 10px" src="https://user-images.githubusercontent.com/674621/230689591-9b6d704f-8384-4612-8b69-0895b497c7a4.png" alt="LangChain" height="50" /></a>
-<a href="https://crew-ai.com/" target="_blank"><img style="margin: 10px" src="https://crew-ai.com/static/crew-ai-logo-3f321ec2822c1d38c8d08f4012eb76e8.png" alt="CrewAI" height="50" /></a>
+<a href="https://docs.langchain.com/" target="_blank"><img style="margin: 10px" src="https://images.seeklogo.com/logo-png/52/1/langchain-logo-png_seeklogo-528369.png" alt="LangChain" height="50" /></a>
+<a href="https://crew-ai.com/" target="_blank"><img style="margin: 10px" src="https://www.crewai.com/assets/crew_only-2f0252ef56367dfdb75981ffa2906f3538cf91c125a51204b310dbbb137426d8.png" height="50" /></a>
 <a href="https://www.postman.com/" target="_blank"><img style="margin: 10px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" height="50" /></a>
 <a href="https://fastapi.tiangolo.com/" target="_blank"><img style="margin: 10px" src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" alt="FastAPI" height="50" /></a>
-<a href="https://ollama.com/" target="_blank"><img style="margin: 10px" src="https://ollama.com/logo.svg" alt="Ollama" height="50" /></a>
+<a href="https://ollama.com/" target="_blank"><img style="margin: 10px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVoevJTUEiRnGxjz4FzwytTLC7dO6qJCUOvw&s" alt="Ollama" height="50" /></a>
 </div>
